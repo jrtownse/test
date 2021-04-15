@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <soap:Body>
+        <GetAvailable2Response xmlns="http://kleverlogic.com/webservices/">
+            <GetAvailable2Result>
+                <Code>Success</Code>
+                <GetAvailable2Data>
+                    <LocationName>Olympia Parking</LocationName>
+                    <LogicalZoneName>143 W Montcalm</LogicalZoneName>
+                    <LogicalZoneCapacityCount>33</LogicalZoneCapacityCount>
+                    <LogicalZoneMonthlyReserveCount>0</LogicalZoneMonthlyReserveCount>
+                    <AvailableOverall>33</AvailableOverall>
+                    <TransientAvailable>33</TransientAvailable>
+                    <AllMonthlyAvailable>0</AllMonthlyAvailable>
+                    <AllLogicalZoneMonthlyAvailable>0</AllLogicalZoneMonthlyAvailable>
+                    <EparkingTicketsPresent />
+                    <GarageStatus>Open</GarageStatus>
+                </GetAvailable2Data>
+            </GetAvailable2Result>
+        </GetAvailable2Response>
+    </soap:Body>
+</soap:Envelope>
