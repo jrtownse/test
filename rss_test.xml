@@ -1,8 +1,13 @@
 <?xml version="1.0" ?>
 <rss version="2.0">
 <channel>
-<title>My Title</title>
-<link>https://townlabs.io</link>
-<description>my description</description>
+  <title>Title1</title>
+  <link>https://www.xul.fr/en/</link>
+  <description>desc1</description>
+    <item>
+      <title>Item1Title</title>
+      <link>https://www.xul.fr/en-xml-rss.html</link>
+      <description>Item1Descp</description>
+  </item>
 </channel>
-</rss>
+</rss> 
