@@ -2,12 +2,17 @@
 <rss version="2.0">
 <channel>
   <title>Title1</title>
-  <link>https://www.xul.fr/en/</link>
+  <link>url_main</link>
   <description>desc1</description>
     <item>
       <title>Item1Title</title>
-      <link>https://www.xul.fr/en-xml-rss.html</link>
+      <link>url1</link>
       <description>Item1Descp</description>
+  </item>
+     <item>
+      <title>Item2Title</title>
+      <link>url2</link>
+      <description>Item2Descp</description>
   </item>
 </channel>
 </rss> 
