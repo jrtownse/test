@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='ASCII'?>
+<rss version="2.0">
+  <channel>
+    <title>MainTitle</title>
+    <link>url-1</link>
+    <description>des-1</description>
+    <item>
+      <title>Item_Title</title>
+      <link>Item-Link</link>
+      <description>Item-Des</description>
+    </item>
+  </channel>
+</rss>
